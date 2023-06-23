@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Shenya
+👋 Hi, I’m Shenya
+
 - Student at 42 Berlin
 - Former Biologist and Business Analyst (Requirement Analyst)
 - Passionate about data and open science
